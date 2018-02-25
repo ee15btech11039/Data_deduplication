@@ -5,7 +5,7 @@ import math
 from sklearn.cluster import KMeans
 from collections import OrderedDict
 print "Reading data ..."
-data=pd.read_csv('data.csv') ##drop the duplicates
+data=pd.read_csv('data.csv') ##change with path of the input csv file if required
 
 
 
