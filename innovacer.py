@@ -1,3 +1,7 @@
+##Data Deduplication using k means clustering
+##Submitted by Ayush kumar,IIT Hyd,ROll no EE15BTECH11039
+
+
 import numpy as np
 import pandas as pd
 import string
