@@ -1,4 +1,6 @@
 # Data_deduplication
+# Submitted by Ayush Kumar,EE15BTECH11039,IIT HYD
+
 Removing redundant data from a data set using k means clustering
 
 Algorithm :
